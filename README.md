@@ -14,3 +14,7 @@
 - Arrumado o ano de lançamento de cada filme.
 - Arrumado o Diretor correto de cada filme, tambem é possível clicar no diretor para abrir sua página no google com sua informações.
 
+## Informações sobre o projeto
+
+Esse é um Bootcamp Ri Happy - Front-end do Zero em parceria com DIO<br>
+link : https://web.dio.me/track/f31d0ec6-b46a-47d6-b5ec-5dcd3766dacb
